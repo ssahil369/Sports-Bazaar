@@ -1,0 +1,9 @@
+.cimage {
+  height: 250px;
+  width: auto ;
+  aspect-ratio: auto;
+}
+
+.row {
+  margin-left: 20%;
+}
